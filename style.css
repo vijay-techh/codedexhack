@@ -1,0 +1,13 @@
+.bann,img   {
+    position: fixed; 
+    width: 1000p;
+    height: 200px;
+    
+    
+}
+img{
+    border-radius: 25px;
+}
+*{
+    background-image:url(42332.webp) ;
+}
